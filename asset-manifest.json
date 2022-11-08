@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tarea-1-openBootcamp/static/css/main.073c9b0a.css",
+    "main.js": "/tarea-1-openBootcamp/static/js/main.14495bf5.js",
+    "static/js/787.0c6cd8d3.chunk.js": "/tarea-1-openBootcamp/static/js/787.0c6cd8d3.chunk.js",
+    "static/media/logo.svg": "/tarea-1-openBootcamp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tarea-1-openBootcamp/index.html",
+    "main.073c9b0a.css.map": "/tarea-1-openBootcamp/static/css/main.073c9b0a.css.map",
+    "main.14495bf5.js.map": "/tarea-1-openBootcamp/static/js/main.14495bf5.js.map",
+    "787.0c6cd8d3.chunk.js.map": "/tarea-1-openBootcamp/static/js/787.0c6cd8d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14495bf5.js"
+  ]
+}
